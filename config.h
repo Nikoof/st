@@ -96,6 +96,8 @@ char *termname = "st-256color";
  */
 unsigned int tabspaces = 4;
 
+float alpha = 0.75;
+
 static const char *colorname[] = {
 	/* 8 normal colors */
 	"#6E6C7E",
