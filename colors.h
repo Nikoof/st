@@ -56,4 +56,6 @@ static const char *colorname[] = {
 	[258] = "#C3BAC6", /*575268*/
 };
 
+#else
+#error "Theme not implemented."
 #endif
